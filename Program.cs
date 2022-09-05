@@ -53,7 +53,7 @@ namespace md07_CadernoExercicios_03
         }
         static void Main(string[] args)
         {
-            string continuar = "sim";
+            string continuar = "s";
             do
             {
                 EntradaDeDados();
